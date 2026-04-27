@@ -1,0 +1,12 @@
+h1 a, h2 a {
+    color: #C25100;
+    text-decoration: none;
+}
+
+body {
+    padding-left: 15px;
+}
+
+.post {
+    margin-bottom: 40px;
+}
